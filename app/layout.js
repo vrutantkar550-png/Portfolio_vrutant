@@ -1,6 +1,7 @@
 import { Space_Grotesk, Inter, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 import { profile } from "../data/content";
+npm i @vercel/analytics
 
 const display = Space_Grotesk({
   subsets: ["latin"],
