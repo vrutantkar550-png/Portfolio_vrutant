@@ -1,4 +1,4 @@
-# AI Engineer Portfolio
+# Portfolio_vrutant
 
 A dark, neural-network-themed portfolio built with Next.js (App Router). Signature piece: an animated, cursor-reactive neural network canvas in the hero.
 
