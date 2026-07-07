@@ -1,8 +1,3 @@
-// ─────────────────────────────────────────────────────────
-// Edit everything in this file with your own information.
-// Nothing else in the codebase needs to change for basic use.
-// ─────────────────────────────────────────────────────────
-
 export const profile = {
   name: "Vrutant Kar",
   role: "AI/ML Engineer",
