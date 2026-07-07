@@ -33,7 +33,7 @@ export const skillGroups = [
    },
   {
     category: "ML / DL frameworks",
-     skills: ["Machine Learning", "Deep Learning", "Computer Vision", "PyTorch", "TensorFlow", "Scikit-learn", "OpenCV", "Hugging Face"
+     skills: ["Machine Learning", "Deep Learning", "Computer Vision", "PyTorch", "TensorFlow", "Scikit-learn", "OpenCV", "Hugging Face"],
   },
   {
     category: "AI Tools",
@@ -43,7 +43,7 @@ export const skillGroups = [
        "LLMs"
        "n8n",
        "Prompt engineering",
-       "Agentic workflows"
+       "Agentic workflows"],
   },
   {
    category: "Data Science",
@@ -52,7 +52,7 @@ export const skillGroups = [
       "Pandas",
       "Matplotlib",
       "Data Analysis",
-      "Kaggle"
+      "Kaggle"],
   },
   {
     category: "Development Tools",
@@ -61,7 +61,7 @@ export const skillGroups = [
         "GitHub",
         "VS Code",
         "Jupyter Notebook",
-        "Google Colab"
+        "Google Colab"],
   },
 ];
 
