@@ -40,7 +40,7 @@ export const skillGroups = [
      skills: [
        "YOLOv5",
        "Prompt Engineering",
-       "LLMs"
+       "LLMs",
        "n8n",
        "Prompt engineering",
        "Agentic workflows"],
